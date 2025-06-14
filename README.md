@@ -12,7 +12,6 @@ Bu proje, C++ dilinde geliştirilmiş bir radar simülasyonudur. Radar sistemler
 ## Kurulum ve Derleme
 ### Gereksinimler
 - C++ derleyicisi (GCC, MinGW, MSVC veya benzeri)
-- (Varsa) Ek kütüphaneler: Standart C++ kütüphanesi
 
 ### Derleme (Windows için)
 1. Proje klasörüne gidin:
@@ -33,8 +32,3 @@ Derleme işlemi tamamlandıktan sonra, programı çalıştırmak için:
 ## Örnek Çıktı
 Programın çıktısı, radar simülasyonunun sonuçlarını veya tespit edilen hedefleri konsola yazdıracaktır. Detaylar için `radar.cpp` dosyasını inceleyebilirsiniz.
 
-## Katkıda Bulunma
-Katkıda bulunmak için lütfen bir fork oluşturun ve pull request gönderin. Hataları veya önerileri Issues bölümünde bildirebilirsiniz.
-
-## Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
